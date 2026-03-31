@@ -2,8 +2,9 @@
 
 ### Ideia:
 
-Algoritmo otimizado que busca se determinado elemento existe em um vetor **ordenado**.
-A busca é feita dividindo repetidamente o vetor ao meio (dividir e conquistar), comparando o elemento do meio com o valor buscado.
+Algoritmo otimizado que busca se determinado elemento está presente em uma lista **ordenada**.
+
+A busca é feita dividindo repetidamente a lista ao meio (dividir e conquistar), comparando o elemento do meio com o valor buscado.
 
 ### Algoritmo:
 
